@@ -1,3 +1,4 @@
+![Bootcamp Java DIO](https://img.shields.io/badge/Bootcamp-DIO%20Java-blueviolet?style=for-the-badge&logo=java)
 # 🛠️ Sistema de Gestão de Pedidos — Microserviços com Spring Boot & Spring Cloud
 
 Este projeto é parte de um desafio técnico proposto pela NTT DATA Inc. e tem como objetivo desenvolver uma aplicação baseada em microserviços utilizando Spring Boot e Spring Cloud, aplicando conceitos modernos como Service Discovery, API Gateway, comunicação entre serviços e autenticação simplificada.
